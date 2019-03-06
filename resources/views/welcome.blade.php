@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Tratando de hacer un cambio en la rama master
                 </div>
 
                 <div class="links">
